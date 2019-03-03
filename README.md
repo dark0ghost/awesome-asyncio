@@ -68,7 +68,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [GINO](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg](https://github.com/MagicStack/asyncpg) dialect.
 * [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
 * [Databases](https://github.com/encode/databases) - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
-
+[aiosqlite](https://github.com/jreese/aiosqlite) - Async lib for Sqlite 
 ## Networking
 
 *Libraries to communicate in your network.*
